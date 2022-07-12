@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **an online resume**
 
-- 🌱 I’m currently learning **Spring Boot with Angular**
+- 🌱 I’m currently learning **Vuejs and nodejs/.Net**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
