@@ -34,9 +34,11 @@
 </p>
 <h4  align="center">Others </h4>
 <div class="row" align="center">
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <div class="col-lg-4">
+   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/>
   </a>
+ </div>
    <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="60" height="60"/>
   </a>
