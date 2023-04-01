@@ -31,10 +31,10 @@
 <h4 align="center" >Back-end </h4>
 <p align="center">
   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
-    <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg)" alt="nodejs" width="60" height="60"/>
+    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="60" height="60"/>
   </a>
-  <a href="[https://spring.io/](https://laravel.com/)" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="spring" width="60" height="60"/>
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="spring" width="120" height="60"/>
   </a>
 </p>
 <h4  align="center">Others </h4>
