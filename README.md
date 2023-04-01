@@ -5,9 +5,9 @@
 
 <p align="center" width="100%"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crakenar&row=2&column=3" alt="crakenar" /></a> </p>
 
-- 🔭 I’m currently working on **an online resume**
+- 🔭 I’m currently working on **a free/fun gambling application**
 
-- 🌱 I’m currently learning **Vuejs and nodejs/.Net**
+- 🌱 I’m currently working with **Vuejs and Nodejs/Laravel**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
