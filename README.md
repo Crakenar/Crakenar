@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Teo</h1>
-<h3 align="center">A young web developer who currently do not have any idea which language he should choose</h3>
+<h3 align="center">A young developer who currently do not have any idea which language he should choose</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crakenar&label=Profile%20views&color=0e75b6&style=flat" alt="crakenar" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **a free/fun gambling application**
 
-- 🌱 I’m currently working with **Vuejs and Nodejs/Laravel**
+- 🌱 I’m currently working with **Go / Laravel **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
